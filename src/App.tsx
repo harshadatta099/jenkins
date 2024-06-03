@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App Jenkins</div>
+    <div>App Jenkins auto-build</div>
   )
 }
 
